@@ -6,4 +6,4 @@
 2. cd es6-course-master
 3. yarn install
 4. yarn run devserver
-5. Enjoy
+5. go to http://localhost:3000/
